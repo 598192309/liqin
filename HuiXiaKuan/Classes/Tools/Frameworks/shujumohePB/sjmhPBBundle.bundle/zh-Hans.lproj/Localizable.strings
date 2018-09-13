@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  shujumohePB
+
+  Created by wei wang on 2018/4/14.
+  Copyright © 2018年 wei wang. All rights reserved.
+*/
+"网络出错啦，请稍后再试"="A mistake in the network. Please try again later";
+"Certification" = "Certification";
+"Verified"="Verified";
+"Close the task and logout ?"="Close the task and logout ?";
+"Yes"="Yes";
+"No" = "No";
+"Reauthorize"="Reauthorize";
+"Reauthorize ?"="Reauthorize ?";
+"Loading"="Loading";
+
+
+
+
+"partnerCode is empty!"="partnerCode is empty!";
+"partnerKey is empty!"="partnerKey is empty!";
+"Channel code is empty!" = "Channel code is empty!";
+"Callback method is empty!" = "Callback method is empty!";
+"Loading..." = "Loading ...";
+"Close this task and exit?" = "Close this task and exit?";
+"Confirm"="Confirm";
+"Cancel"="Cancel";
+"login page load timeout!"="login page load timeout!";
+"create task ID timeout!"="create task ID timeout!";
+"task timeout!"="task timeout!";
+
+"passback params is too long!"="passback params is too long!";
